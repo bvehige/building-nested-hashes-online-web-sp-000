@@ -10,7 +10,7 @@ def fourth_challenge
         :attitude => "worried"},
         {:name => "Mercutio",
         :age => "18",
-        :attidue => "hot-headed"}
+        :attitude => "hot-headed"}
       ]
    }, 
    :capulet => {
